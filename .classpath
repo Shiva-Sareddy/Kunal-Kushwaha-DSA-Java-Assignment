@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="02-first-java"/>
+	<classpathentry kind="src" path="03-conditionals-loops"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
