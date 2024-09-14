@@ -1,10 +1,8 @@
 package kunalDSA;
 
-public class areaOfCircle {
+public class AreaOfRectangle {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
 
 }
