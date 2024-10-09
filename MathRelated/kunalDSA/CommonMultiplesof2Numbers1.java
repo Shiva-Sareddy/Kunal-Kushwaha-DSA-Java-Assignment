@@ -28,9 +28,12 @@ public class CommonMultiplesof2Numbers1 {
 		int b = sc.nextInt();
 		
 		int lcm = findLCM(a,b);
+		
 		for(int i = 1; i <= n; i++) {
 			System.out.print(lcm * i + " ");
 		}
+		System.out.println();
+		System.out.println("LCM is: " + lcm);
 		sc.close();
 
 	}
