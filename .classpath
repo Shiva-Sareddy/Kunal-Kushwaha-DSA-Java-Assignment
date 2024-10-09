@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="03-conditionals-loops"/>
+	<classpathentry kind="src" path="MathRelated"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
