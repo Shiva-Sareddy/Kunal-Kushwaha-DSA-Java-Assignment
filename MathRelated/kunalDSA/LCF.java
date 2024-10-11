@@ -16,7 +16,7 @@ public class LCF {
 	
 	public static int findLCF(int a, int b) {
 		int gcd = findGCD(a,b);
-		for(int i = 3; i <= gcd; i++) {
+		for(int i = 1; i <= gcd; i++) {
 			if(a % i == 0 && b % i == 0) {
 				return i;
 			}
