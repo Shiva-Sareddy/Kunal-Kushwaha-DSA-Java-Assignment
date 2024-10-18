@@ -2,7 +2,7 @@ package kunalDSA;
 
 import java.util.Scanner;
 
-public class DivyaQn {
+public class DivyaQn01 {
 	
 	public int diff(int a, int b) {
 		return a - b;
@@ -10,7 +10,7 @@ public class DivyaQn {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		DivyaQn dq = new DivyaQn();
+		DivyaQn01 dq = new DivyaQn01();
 		System.out.print("Enter First number: ");
 		int a = sc.nextInt();
 		System.out.print("Enter Second Number: ");

@@ -2,7 +2,7 @@ package kunalDSA;
 
 import java.util.Scanner;
 
-public class DivyaQn2 {
+public class DivyaQn02 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

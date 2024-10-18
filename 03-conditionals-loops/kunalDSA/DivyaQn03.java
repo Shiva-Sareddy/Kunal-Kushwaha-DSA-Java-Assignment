@@ -3,7 +3,7 @@ package kunalDSA;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class DivyaQn3 {
+public class DivyaQn03 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package kunalDSA;
 
 import java.util.Scanner;
 
-public class DivyaQn8 {
+public class DivyaQn08 {
 	private static String reverseString(String s) {
 		int len = s.length();
 		String newWord = "";
